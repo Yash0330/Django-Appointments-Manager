@@ -1,1 +1,1 @@
-# Django-Appointments-
+# Django-Appointments
